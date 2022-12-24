@@ -1,0 +1,25 @@
+* {
+    background: darkred;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin:0px;
+    padding:0px;
+}
+.title {
+    color:darkkhaki;
+    text-align: center;
+}
+.header {
+    border:10px solid burlywood;
+    padding:10px;
+}
+
+.photos {
+    border: 5px solid darkgreen;
+    border-radius: 30%;
+    margin:7px;
+  
+   
+}
+img:hover {
+    box-shadow: 0 0 4px 4px rgba(218, 224, 226, 0.5);
+  }
